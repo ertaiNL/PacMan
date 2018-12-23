@@ -1,2 +1,2 @@
 # PacMan
-Tryout for LibSDL in Java
+Tryout for LibGDX in Java
